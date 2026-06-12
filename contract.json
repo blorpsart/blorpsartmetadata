@@ -1,0 +1,8 @@
+{
+    "name": "Blorps",
+    "description": "Blorps NFT Collection 7777 Unique digital items with customized traits.",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3539.webp",
+    "external_link": "https://github.com/blorpsart",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x195Fda4dD74010Fd343c56783D368a86976e4536"
+}
