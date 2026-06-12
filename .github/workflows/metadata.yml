@@ -1,0 +1,36 @@
+name: Generate NFT Metadata
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-metadata:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set Up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run Metadata Generator Script
+      run: python generate_metadata.py
+
+    - name: Clean Up Script and CSV
+      run: |
+        rm -f generate_metadata.py
+        rm -f blorps.csv
+
+    - name: Commit and Push Metadata Files
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add metadata/
+        git commit -m "Deploy token metadata files 0 to 7777 via GitHub Actions" || echo "No changes to commit"
+        git push origin main
