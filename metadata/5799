@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5799",
+    "description": "Blorps NFT Collection Item #5799",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5799.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Messy"
+        }
+    ]
+}

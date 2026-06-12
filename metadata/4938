@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4938",
+    "description": "Blorps NFT Collection Item #4938",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4938.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild Blond"
+        }
+    ]
+}

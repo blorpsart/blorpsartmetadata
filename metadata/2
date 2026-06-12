@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2",
+    "description": "Blorps NFT Collection Item #2",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wif"
+        }
+    ]
+}

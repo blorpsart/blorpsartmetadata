@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1298",
+    "description": "Blorps NFT Collection Item #1298",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1298.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Knit Cap"
+        }
+    ]
+}

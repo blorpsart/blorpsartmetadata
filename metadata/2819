@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2819",
+    "description": "Blorps NFT Collection Item #2819",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2819.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Nyan"
+        }
+    ]
+}

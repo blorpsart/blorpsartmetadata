@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5197",
+    "description": "Blorps NFT Collection Item #5197",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5197.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        }
+    ]
+}

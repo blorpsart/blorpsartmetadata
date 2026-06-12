@@ -1,0 +1,11 @@
+{
+    "name": "Blorps #4834",
+    "description": "Blorps NFT Collection Item #4834",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4834.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "1-Jan"
+        }
+    ]
+}

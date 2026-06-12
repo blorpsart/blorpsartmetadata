@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4886",
+    "description": "Blorps NFT Collection Item #4886",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4886.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

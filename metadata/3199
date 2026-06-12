@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #3199",
+    "description": "Blorps NFT Collection Item #3199",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3199.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beauty Mark"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Messy"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2582",
+    "description": "Blorps NFT Collection Item #2582",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2582.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Red Hawk"
+        }
+    ]
+}

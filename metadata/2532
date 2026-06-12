@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2532",
+    "description": "Blorps NFT Collection Item #2532",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2532.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Frumpy"
+        }
+    ]
+}

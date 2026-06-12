@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #740",
+    "description": "Blorps NFT Collection Item #740",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/740.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beauty Mark"
+        }
+    ]
+}

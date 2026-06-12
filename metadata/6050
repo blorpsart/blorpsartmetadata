@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6050",
+    "description": "Blorps NFT Collection Item #6050",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6050.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Basic Cap"
+        }
+    ]
+}

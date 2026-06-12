@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4314",
+    "description": "Blorps NFT Collection Item #4314",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4314.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Infinity Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

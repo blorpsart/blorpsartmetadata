@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6060",
+    "description": "Blorps NFT Collection Item #6060",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6060.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Dark Hawk"
+        }
+    ]
+}

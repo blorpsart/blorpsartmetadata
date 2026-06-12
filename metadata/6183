@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6183",
+    "description": "Blorps NFT Collection Item #6183",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6183.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Weld Goggles"
+        }
+    ]
+}

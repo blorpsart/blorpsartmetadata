@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #451",
+    "description": "Blorps NFT Collection Item #451",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/451.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Green Clown Hair"
+        }
+    ]
+}

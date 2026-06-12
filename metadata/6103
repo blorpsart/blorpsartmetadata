@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6103",
+    "description": "Blorps NFT Collection Item #6103",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6103.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Topper"
+        }
+    ]
+}

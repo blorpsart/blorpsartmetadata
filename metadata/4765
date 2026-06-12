@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4765",
+    "description": "Blorps NFT Collection Item #4765",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4765.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mask"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Band"
+        }
+    ]
+}

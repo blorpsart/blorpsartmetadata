@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7729",
+    "description": "Blorps NFT Collection Item #7729",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7729.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Short Blond"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #636",
+    "description": "Blorps NFT Collection Item #636",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/636.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Based Nogs"
+        }
+    ]
+}

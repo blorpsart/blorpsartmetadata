@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #158",
+    "description": "Blorps NFT Collection Item #158",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/158.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stache"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wif"
+        }
+    ]
+}

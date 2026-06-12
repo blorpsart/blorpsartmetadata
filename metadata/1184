@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1184",
+    "description": "Blorps NFT Collection Item #1184",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1184.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Bandana"
+        }
+    ]
+}

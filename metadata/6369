@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6369",
+    "description": "Blorps NFT Collection Item #6369",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6369.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Hawk"
+        }
+    ]
+}

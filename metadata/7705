@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7705",
+    "description": "Blorps NFT Collection Item #7705",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7705.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stache"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7363",
+    "description": "Blorps NFT Collection Item #7363",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7363.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Knit Cap"
+        }
+    ]
+}

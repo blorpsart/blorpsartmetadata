@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6778",
+    "description": "Blorps NFT Collection Item #6778",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6778.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Laser"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Frumpy"
+        }
+    ]
+}

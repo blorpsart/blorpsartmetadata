@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6641",
+    "description": "Blorps NFT Collection Item #6641",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6641.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Topper"
+        }
+    ]
+}

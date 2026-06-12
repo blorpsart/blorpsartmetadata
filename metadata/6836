@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6836",
+    "description": "Blorps NFT Collection Item #6836",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6836.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Durag"
+        }
+    ]
+}

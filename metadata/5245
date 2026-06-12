@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5245",
+    "description": "Blorps NFT Collection Item #5245",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5245.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Basic Cap"
+        }
+    ]
+}

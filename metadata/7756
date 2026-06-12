@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7756",
+    "description": "Blorps NFT Collection Item #7756",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7756.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        }
+    ]
+}

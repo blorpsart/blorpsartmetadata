@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4590",
+    "description": "Blorps NFT Collection Item #4590",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4590.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Fedora"
+        }
+    ]
+}

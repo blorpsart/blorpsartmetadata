@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #548",
+    "description": "Blorps NFT Collection Item #548",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/548.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Patch"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Freckles"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #465",
+    "description": "Blorps NFT Collection Item #465",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/465.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

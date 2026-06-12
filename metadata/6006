@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6006",
+    "description": "Blorps NFT Collection Item #6006",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6006.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wif"
+        }
+    ]
+}

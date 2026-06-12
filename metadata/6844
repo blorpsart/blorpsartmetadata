@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6844",
+    "description": "Blorps NFT Collection Item #6844",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6844.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Degen"
+        }
+    ]
+}

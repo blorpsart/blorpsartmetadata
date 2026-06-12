@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6443",
+    "description": "Blorps NFT Collection Item #6443",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6443.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pink Hat"
+        }
+    ]
+}

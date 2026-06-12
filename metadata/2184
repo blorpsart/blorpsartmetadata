@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2184",
+    "description": "Blorps NFT Collection Item #2184",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2184.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "White Wild"
+        }
+    ]
+}

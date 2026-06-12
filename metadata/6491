@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6491",
+    "description": "Blorps NFT Collection Item #6491",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6491.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

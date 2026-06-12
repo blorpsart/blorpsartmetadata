@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3291",
+    "description": "Blorps NFT Collection Item #3291",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3291.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Red Nose"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Nyan"
+        }
+    ]
+}

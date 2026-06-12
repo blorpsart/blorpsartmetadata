@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2081",
+    "description": "Blorps NFT Collection Item #2081",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2081.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Dark Hawk"
+        }
+    ]
+}

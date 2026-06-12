@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #5058",
+    "description": "Blorps NFT Collection Item #5058",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5058.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        }
+    ]
+}

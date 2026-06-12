@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2286",
+    "description": "Blorps NFT Collection Item #2286",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2286.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Based Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Fedora"
+        }
+    ]
+}

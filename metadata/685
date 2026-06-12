@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #685",
+    "description": "Blorps NFT Collection Item #685",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/685.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stache"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Fedora"
+        }
+    ]
+}

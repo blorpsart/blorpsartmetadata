@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1072",
+    "description": "Blorps NFT Collection Item #1072",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1072.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Chops"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Basic Cap"
+        }
+    ]
+}

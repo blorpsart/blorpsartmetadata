@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4081",
+    "description": "Blorps NFT Collection Item #4081",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4081.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Dark Hawk"
+        }
+    ]
+}

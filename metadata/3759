@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #3759",
+    "description": "Blorps NFT Collection Item #3759",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3759.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        }
+    ]
+}

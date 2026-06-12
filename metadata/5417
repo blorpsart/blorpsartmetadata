@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5417",
+    "description": "Blorps NFT Collection Item #5417",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5417.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1515",
+    "description": "Blorps NFT Collection Item #1515",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1515.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Black Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Dark Hawk"
+        }
+    ]
+}

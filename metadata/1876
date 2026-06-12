@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1876",
+    "description": "Blorps NFT Collection Item #1876",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1876.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Frumpy"
+        }
+    ]
+}

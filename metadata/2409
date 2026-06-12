@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2409",
+    "description": "Blorps NFT Collection Item #2409",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2409.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        }
+    ]
+}

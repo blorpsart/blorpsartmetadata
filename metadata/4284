@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4284",
+    "description": "Blorps NFT Collection Item #4284",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4284.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        }
+    ]
+}

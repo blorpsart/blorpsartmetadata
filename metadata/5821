@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5821",
+    "description": "Blorps NFT Collection Item #5821",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5821.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5766",
+    "description": "Blorps NFT Collection Item #5766",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5766.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Frumpy"
+        }
+    ]
+}

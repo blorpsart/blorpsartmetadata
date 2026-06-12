@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6219",
+    "description": "Blorps NFT Collection Item #6219",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6219.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stache"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

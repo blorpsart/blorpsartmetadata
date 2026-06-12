@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5093",
+    "description": "Blorps NFT Collection Item #5093",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5093.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        }
+    ]
+}

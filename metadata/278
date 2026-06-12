@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #278",
+    "description": "Blorps NFT Collection Item #278",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/278.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        }
+    ]
+}

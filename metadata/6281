@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6281",
+    "description": "Blorps NFT Collection Item #6281",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6281.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Knit Cap"
+        }
+    ]
+}

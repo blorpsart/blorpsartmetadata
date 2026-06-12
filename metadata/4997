@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4997",
+    "description": "Blorps NFT Collection Item #4997",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4997.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Shadow"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pink Hat"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #3230",
+    "description": "Blorps NFT Collection Item #3230",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3230.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Band"
+        }
+    ]
+}

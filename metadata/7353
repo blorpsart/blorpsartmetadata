@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7353",
+    "description": "Blorps NFT Collection Item #7353",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7353.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Topper"
+        }
+    ]
+}

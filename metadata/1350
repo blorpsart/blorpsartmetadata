@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1350",
+    "description": "Blorps NFT Collection Item #1350",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1350.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

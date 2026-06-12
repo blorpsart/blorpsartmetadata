@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6170",
+    "description": "Blorps NFT Collection Item #6170",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6170.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Short Blond"
+        }
+    ]
+}

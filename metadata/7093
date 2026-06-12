@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7093",
+    "description": "Blorps NFT Collection Item #7093",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7093.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stache"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Bandana"
+        }
+    ]
+}

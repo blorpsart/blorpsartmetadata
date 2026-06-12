@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #3314",
+    "description": "Blorps NFT Collection Item #3314",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3314.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Red Nose"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Basic Cap"
+        }
+    ]
+}

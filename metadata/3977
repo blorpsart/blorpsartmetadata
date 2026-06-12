@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #3977",
+    "description": "Blorps NFT Collection Item #3977",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3977.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Red Nose"
+        }
+    ]
+}

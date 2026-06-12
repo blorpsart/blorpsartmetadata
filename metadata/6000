@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6000",
+    "description": "Blorps NFT Collection Item #6000",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6000.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

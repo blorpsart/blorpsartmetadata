@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4265",
+    "description": "Blorps NFT Collection Item #4265",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4265.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Patch"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Nyan"
+        }
+    ]
+}

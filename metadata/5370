@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5370",
+    "description": "Blorps NFT Collection Item #5370",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5370.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        }
+    ]
+}

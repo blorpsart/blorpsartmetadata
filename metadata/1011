@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1011",
+    "description": "Blorps NFT Collection Item #1011",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1011.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Degen"
+        }
+    ]
+}

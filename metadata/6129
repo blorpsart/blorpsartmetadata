@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6129",
+    "description": "Blorps NFT Collection Item #6129",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6129.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pilot"
+        }
+    ]
+}

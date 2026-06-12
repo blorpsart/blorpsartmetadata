@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5569",
+    "description": "Blorps NFT Collection Item #5569",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5569.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

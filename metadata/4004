@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4004",
+    "description": "Blorps NFT Collection Item #4004",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4004.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handlebar"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

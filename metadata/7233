@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7233",
+    "description": "Blorps NFT Collection Item #7233",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7233.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        }
+    ]
+}

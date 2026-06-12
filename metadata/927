@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #927",
+    "description": "Blorps NFT Collection Item #927",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/927.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

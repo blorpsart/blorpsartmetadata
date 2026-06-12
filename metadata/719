@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #719",
+    "description": "Blorps NFT Collection Item #719",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/719.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild Blond"
+        }
+    ]
+}

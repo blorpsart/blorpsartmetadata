@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6926",
+    "description": "Blorps NFT Collection Item #6926",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6926.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mask"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Spike"
+        }
+    ]
+}

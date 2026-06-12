@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6241",
+    "description": "Blorps NFT Collection Item #6241",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6241.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Frumpy"
+        }
+    ]
+}

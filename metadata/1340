@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1340",
+    "description": "Blorps NFT Collection Item #1340",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1340.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "White Wild"
+        }
+    ]
+}

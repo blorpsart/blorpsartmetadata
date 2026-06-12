@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #577",
+    "description": "Blorps NFT Collection Item #577",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/577.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pigtails"
+        }
+    ]
+}

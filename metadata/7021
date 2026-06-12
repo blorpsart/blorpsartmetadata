@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7021",
+    "description": "Blorps NFT Collection Item #7021",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7021.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Patch"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        }
+    ]
+}

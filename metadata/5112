@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5112",
+    "description": "Blorps NFT Collection Item #5112",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5112.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Red Nose"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Fedora"
+        }
+    ]
+}

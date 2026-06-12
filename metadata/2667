@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2667",
+    "description": "Blorps NFT Collection Item #2667",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2667.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Patch"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        }
+    ]
+}

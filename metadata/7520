@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7520",
+    "description": "Blorps NFT Collection Item #7520",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7520.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        }
+    ]
+}

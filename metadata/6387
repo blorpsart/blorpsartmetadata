@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6387",
+    "description": "Blorps NFT Collection Item #6387",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6387.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Black Lips"
+        }
+    ]
+}

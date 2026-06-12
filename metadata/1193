@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1193",
+    "description": "Blorps NFT Collection Item #1193",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1193.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Basic Cap"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2236",
+    "description": "Blorps NFT Collection Item #2236",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2236.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pink Hat"
+        }
+    ]
+}

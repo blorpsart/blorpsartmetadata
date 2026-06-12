@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6675",
+    "description": "Blorps NFT Collection Item #6675",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6675.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Royal Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

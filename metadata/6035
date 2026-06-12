@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #6035",
+    "description": "Blorps NFT Collection Item #6035",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6035.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Green Clown Hair"
+        }
+    ]
+}

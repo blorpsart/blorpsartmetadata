@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #642",
+    "description": "Blorps NFT Collection Item #642",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/642.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild"
+        }
+    ]
+}

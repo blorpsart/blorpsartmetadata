@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5921",
+    "description": "Blorps NFT Collection Item #5921",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5921.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handlebar"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

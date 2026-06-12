@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1725",
+    "description": "Blorps NFT Collection Item #1725",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1725.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beauty Mark"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Dark Hawk"
+        }
+    ]
+}

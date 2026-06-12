@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4948",
+    "description": "Blorps NFT Collection Item #4948",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4948.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Red Hawk"
+        }
+    ]
+}

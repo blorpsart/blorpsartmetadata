@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6860",
+    "description": "Blorps NFT Collection Item #6860",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6860.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        }
+    ]
+}

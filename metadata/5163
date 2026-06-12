@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5163",
+    "description": "Blorps NFT Collection Item #5163",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5163.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pigtails"
+        }
+    ]
+}

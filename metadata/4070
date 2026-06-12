@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4070",
+    "description": "Blorps NFT Collection Item #4070",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4070.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

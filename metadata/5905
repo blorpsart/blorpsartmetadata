@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5905",
+    "description": "Blorps NFT Collection Item #5905",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5905.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Band"
+        }
+    ]
+}

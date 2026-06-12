@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1369",
+    "description": "Blorps NFT Collection Item #1369",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1369.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Infinity Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Topper"
+        }
+    ]
+}

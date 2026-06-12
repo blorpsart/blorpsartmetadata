@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2613",
+    "description": "Blorps NFT Collection Item #2613",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2613.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Durag"
+        }
+    ]
+}

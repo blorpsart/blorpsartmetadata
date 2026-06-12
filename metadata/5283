@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5283",
+    "description": "Blorps NFT Collection Item #5283",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5283.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Green Clown Hair"
+        }
+    ]
+}

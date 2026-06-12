@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #3901",
+    "description": "Blorps NFT Collection Item #3901",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3901.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handlebar"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild"
+        }
+    ]
+}

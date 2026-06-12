@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4844",
+    "description": "Blorps NFT Collection Item #4844",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4844.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pilot"
+        }
+    ]
+}

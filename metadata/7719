@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7719",
+    "description": "Blorps NFT Collection Item #7719",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7719.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Freckles"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Short Blond"
+        }
+    ]
+}

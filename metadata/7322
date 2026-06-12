@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7322",
+    "description": "Blorps NFT Collection Item #7322",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7322.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Royal Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild"
+        }
+    ]
+}

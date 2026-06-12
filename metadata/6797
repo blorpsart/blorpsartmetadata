@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6797",
+    "description": "Blorps NFT Collection Item #6797",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6797.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Dark Hawk"
+        }
+    ]
+}

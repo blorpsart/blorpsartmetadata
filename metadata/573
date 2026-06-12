@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #573",
+    "description": "Blorps NFT Collection Item #573",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/573.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Infinity Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Royal Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

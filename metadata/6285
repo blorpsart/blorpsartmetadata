@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6285",
+    "description": "Blorps NFT Collection Item #6285",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6285.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mask"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Degen"
+        }
+    ]
+}

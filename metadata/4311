@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4311",
+    "description": "Blorps NFT Collection Item #4311",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4311.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

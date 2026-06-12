@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1584",
+    "description": "Blorps NFT Collection Item #1584",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1584.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Nyan"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7170",
+    "description": "Blorps NFT Collection Item #7170",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7170.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Forward Cap"
+        }
+    ]
+}

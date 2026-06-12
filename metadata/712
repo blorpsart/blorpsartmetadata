@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #712",
+    "description": "Blorps NFT Collection Item #712",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/712.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Degen"
+        }
+    ]
+}

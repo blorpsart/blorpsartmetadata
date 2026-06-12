@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1413",
+    "description": "Blorps NFT Collection Item #1413",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1413.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Red Hawk"
+        }
+    ]
+}

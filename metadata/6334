@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #6334",
+    "description": "Blorps NFT Collection Item #6334",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6334.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "White Wild"
+        }
+    ]
+}

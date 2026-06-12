@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5754",
+    "description": "Blorps NFT Collection Item #5754",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5754.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

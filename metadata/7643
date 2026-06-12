@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7643",
+    "description": "Blorps NFT Collection Item #7643",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7643.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

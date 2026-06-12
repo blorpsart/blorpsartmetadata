@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #503",
+    "description": "Blorps NFT Collection Item #503",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/503.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Green Clown Hair"
+        }
+    ]
+}

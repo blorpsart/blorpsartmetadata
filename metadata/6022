@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6022",
+    "description": "Blorps NFT Collection Item #6022",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6022.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Freckles"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

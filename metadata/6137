@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6137",
+    "description": "Blorps NFT Collection Item #6137",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6137.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Durag"
+        }
+    ]
+}

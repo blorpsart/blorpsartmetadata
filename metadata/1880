@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1880",
+    "description": "Blorps NFT Collection Item #1880",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1880.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild"
+        }
+    ]
+}

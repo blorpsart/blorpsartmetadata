@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #746",
+    "description": "Blorps NFT Collection Item #746",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/746.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Nyan"
+        }
+    ]
+}

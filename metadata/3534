@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #3534",
+    "description": "Blorps NFT Collection Item #3534",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3534.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

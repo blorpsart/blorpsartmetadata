@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #807",
+    "description": "Blorps NFT Collection Item #807",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/807.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Basic Cap"
+        }
+    ]
+}

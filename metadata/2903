@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2903",
+    "description": "Blorps NFT Collection Item #2903",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2903.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beauty Mark"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Knit Cap"
+        }
+    ]
+}

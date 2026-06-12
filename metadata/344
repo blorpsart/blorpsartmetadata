@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #344",
+    "description": "Blorps NFT Collection Item #344",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/344.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beauty Mark"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

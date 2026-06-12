@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #266",
+    "description": "Blorps NFT Collection Item #266",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/266.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Spike"
+        }
+    ]
+}

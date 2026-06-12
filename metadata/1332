@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1332",
+    "description": "Blorps NFT Collection Item #1332",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1332.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Spike"
+        }
+    ]
+}

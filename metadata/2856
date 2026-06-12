@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2856",
+    "description": "Blorps NFT Collection Item #2856",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2856.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cowboy"
+        }
+    ]
+}

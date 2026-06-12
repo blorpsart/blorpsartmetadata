@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5399",
+    "description": "Blorps NFT Collection Item #5399",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5399.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Knit Cap"
+        }
+    ]
+}

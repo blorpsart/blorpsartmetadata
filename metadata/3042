@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3042",
+    "description": "Blorps NFT Collection Item #3042",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3042.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Alpha Kid"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wif"
+        }
+    ]
+}

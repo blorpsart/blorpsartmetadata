@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2311",
+    "description": "Blorps NFT Collection Item #2311",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2311.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Forward Cap"
+        }
+    ]
+}

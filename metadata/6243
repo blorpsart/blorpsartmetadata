@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6243",
+    "description": "Blorps NFT Collection Item #6243",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6243.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

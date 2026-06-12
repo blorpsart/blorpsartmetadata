@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #5815",
+    "description": "Blorps NFT Collection Item #5815",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5815.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Laser"
+        }
+    ]
+}

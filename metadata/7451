@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7451",
+    "description": "Blorps NFT Collection Item #7451",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7451.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Black Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

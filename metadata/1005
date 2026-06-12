@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1005",
+    "description": "Blorps NFT Collection Item #1005",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1005.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Hawk"
+        }
+    ]
+}

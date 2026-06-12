@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1425",
+    "description": "Blorps NFT Collection Item #1425",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1425.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "White Wild"
+        }
+    ]
+}

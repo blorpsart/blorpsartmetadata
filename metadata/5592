@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5592",
+    "description": "Blorps NFT Collection Item #5592",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5592.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Red Hawk"
+        }
+    ]
+}

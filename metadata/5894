@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5894",
+    "description": "Blorps NFT Collection Item #5894",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5894.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handlebar"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Spike"
+        }
+    ]
+}

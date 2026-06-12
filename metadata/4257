@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4257",
+    "description": "Blorps NFT Collection Item #4257",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4257.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

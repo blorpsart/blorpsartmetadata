@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4632",
+    "description": "Blorps NFT Collection Item #4632",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4632.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Knit Cap"
+        }
+    ]
+}

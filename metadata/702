@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #702",
+    "description": "Blorps NFT Collection Item #702",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/702.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Short Blond"
+        }
+    ]
+}

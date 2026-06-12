@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3424",
+    "description": "Blorps NFT Collection Item #3424",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3424.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Short Blond"
+        }
+    ]
+}

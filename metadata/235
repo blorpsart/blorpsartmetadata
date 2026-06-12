@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #235",
+    "description": "Blorps NFT Collection Item #235",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/235.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Weld Goggles"
+        }
+    ]
+}

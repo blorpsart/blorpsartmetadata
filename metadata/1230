@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #1230",
+    "description": "Blorps NFT Collection Item #1230",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1230.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handlebar"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

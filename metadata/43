@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #43",
+    "description": "Blorps NFT Collection Item #43",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/43.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Hawk"
+        }
+    ]
+}

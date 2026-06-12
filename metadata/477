@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #477",
+    "description": "Blorps NFT Collection Item #477",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/477.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Spike"
+        }
+    ]
+}

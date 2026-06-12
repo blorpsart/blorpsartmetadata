@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #888",
+    "description": "Blorps NFT Collection Item #888",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/888.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Spike"
+        }
+    ]
+}

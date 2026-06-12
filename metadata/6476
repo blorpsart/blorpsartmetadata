@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6476",
+    "description": "Blorps NFT Collection Item #6476",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6476.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wif"
+        }
+    ]
+}

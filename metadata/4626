@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4626",
+    "description": "Blorps NFT Collection Item #4626",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4626.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        }
+    ]
+}

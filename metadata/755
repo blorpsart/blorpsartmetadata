@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #755",
+    "description": "Blorps NFT Collection Item #755",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/755.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handlebar"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Topper"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6091",
+    "description": "Blorps NFT Collection Item #6091",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6091.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Black Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Durag"
+        }
+    ]
+}

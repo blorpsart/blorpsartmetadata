@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5942",
+    "description": "Blorps NFT Collection Item #5942",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5942.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Fedora"
+        }
+    ]
+}

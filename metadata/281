@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #281",
+    "description": "Blorps NFT Collection Item #281",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/281.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mask"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild Blond"
+        }
+    ]
+}

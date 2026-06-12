@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5984",
+    "description": "Blorps NFT Collection Item #5984",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5984.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild Blond"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7598",
+    "description": "Blorps NFT Collection Item #7598",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7598.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #183",
+    "description": "Blorps NFT Collection Item #183",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/183.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Infinity Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bucktooth"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild Blond"
+        }
+    ]
+}

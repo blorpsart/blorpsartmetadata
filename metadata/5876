@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5876",
+    "description": "Blorps NFT Collection Item #5876",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5876.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handlebar"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Messy"
+        }
+    ]
+}

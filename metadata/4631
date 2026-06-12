@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4631",
+    "description": "Blorps NFT Collection Item #4631",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4631.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pink Hat"
+        }
+    ]
+}

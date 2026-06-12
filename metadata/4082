@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4082",
+    "description": "Blorps NFT Collection Item #4082",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4082.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Frumpy"
+        }
+    ]
+}

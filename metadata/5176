@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5176",
+    "description": "Blorps NFT Collection Item #5176",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5176.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Patch"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Chops"
+        }
+    ]
+}

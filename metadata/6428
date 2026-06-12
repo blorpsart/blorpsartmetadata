@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6428",
+    "description": "Blorps NFT Collection Item #6428",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6428.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Knit Cap"
+        }
+    ]
+}

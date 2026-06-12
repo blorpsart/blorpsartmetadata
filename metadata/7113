@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7113",
+    "description": "Blorps NFT Collection Item #7113",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7113.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

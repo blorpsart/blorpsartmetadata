@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3248",
+    "description": "Blorps NFT Collection Item #3248",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3248.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bucktooth"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

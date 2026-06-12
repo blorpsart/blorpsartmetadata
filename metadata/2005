@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2005",
+    "description": "Blorps NFT Collection Item #2005",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2005.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Basic Cap"
+        }
+    ]
+}

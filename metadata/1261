@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #1261",
+    "description": "Blorps NFT Collection Item #1261",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1261.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

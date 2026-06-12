@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6487",
+    "description": "Blorps NFT Collection Item #6487",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6487.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Forward Cap"
+        }
+    ]
+}

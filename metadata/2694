@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2694",
+    "description": "Blorps NFT Collection Item #2694",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2694.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #711",
+    "description": "Blorps NFT Collection Item #711",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/711.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Basic Cap"
+        }
+    ]
+}

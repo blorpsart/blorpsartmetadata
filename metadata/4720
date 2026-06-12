@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4720",
+    "description": "Blorps NFT Collection Item #4720",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4720.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pigtails"
+        }
+    ]
+}

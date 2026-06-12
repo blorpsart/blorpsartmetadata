@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6545",
+    "description": "Blorps NFT Collection Item #6545",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6545.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

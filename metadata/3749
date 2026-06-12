@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3749",
+    "description": "Blorps NFT Collection Item #3749",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3749.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        }
+    ]
+}

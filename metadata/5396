@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5396",
+    "description": "Blorps NFT Collection Item #5396",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5396.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mask"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Durag"
+        }
+    ]
+}

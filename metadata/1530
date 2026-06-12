@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1530",
+    "description": "Blorps NFT Collection Item #1530",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1530.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Spike"
+        }
+    ]
+}

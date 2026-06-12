@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6304",
+    "description": "Blorps NFT Collection Item #6304",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6304.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Degen"
+        }
+    ]
+}

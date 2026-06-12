@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2920",
+    "description": "Blorps NFT Collection Item #2920",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2920.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild Blond"
+        }
+    ]
+}

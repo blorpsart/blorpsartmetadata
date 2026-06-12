@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5523",
+    "description": "Blorps NFT Collection Item #5523",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5523.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Royal Beard"
+        }
+    ]
+}

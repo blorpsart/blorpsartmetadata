@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7693",
+    "description": "Blorps NFT Collection Item #7693",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7693.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Green Clown Hair"
+        }
+    ]
+}

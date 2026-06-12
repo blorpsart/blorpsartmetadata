@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2592",
+    "description": "Blorps NFT Collection Item #2592",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2592.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Handlebar"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2282",
+    "description": "Blorps NFT Collection Item #2282",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2282.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stache"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Knit Cap"
+        }
+    ]
+}

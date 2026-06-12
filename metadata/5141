@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5141",
+    "description": "Blorps NFT Collection Item #5141",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5141.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Durag"
+        }
+    ]
+}

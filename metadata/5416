@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5416",
+    "description": "Blorps NFT Collection Item #5416",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5416.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Red Nose"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Nyan"
+        }
+    ]
+}

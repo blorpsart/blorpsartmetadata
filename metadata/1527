@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #1527",
+    "description": "Blorps NFT Collection Item #1527",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1527.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        }
+    ]
+}

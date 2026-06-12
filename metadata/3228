@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3228",
+    "description": "Blorps NFT Collection Item #3228",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3228.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Royal Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pink Hat"
+        }
+    ]
+}

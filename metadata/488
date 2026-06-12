@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #488",
+    "description": "Blorps NFT Collection Item #488",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/488.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Band"
+        }
+    ]
+}

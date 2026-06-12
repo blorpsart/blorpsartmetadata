@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5037",
+    "description": "Blorps NFT Collection Item #5037",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5037.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Chops"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

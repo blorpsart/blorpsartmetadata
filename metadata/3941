@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3941",
+    "description": "Blorps NFT Collection Item #3941",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3941.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Chops"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Bandana"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #30",
+    "description": "Blorps NFT Collection Item #30",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/30.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

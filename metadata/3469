@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #3469",
+    "description": "Blorps NFT Collection Item #3469",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3469.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beauty Mark"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #7212",
+    "description": "Blorps NFT Collection Item #7212",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7212.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Messy"
+        }
+    ]
+}

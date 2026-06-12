@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5307",
+    "description": "Blorps NFT Collection Item #5307",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5307.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Freckles"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Short Blond"
+        }
+    ]
+}

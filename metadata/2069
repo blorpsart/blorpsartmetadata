@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2069",
+    "description": "Blorps NFT Collection Item #2069",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2069.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Beauty Mark"
+        }
+    ]
+}

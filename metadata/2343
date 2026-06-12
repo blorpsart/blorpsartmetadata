@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2343",
+    "description": "Blorps NFT Collection Item #2343",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2343.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Alpha Kid"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        }
+    ]
+}

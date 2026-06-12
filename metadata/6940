@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #6940",
+    "description": "Blorps NFT Collection Item #6940",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6940.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Smoke"
+        }
+    ]
+}

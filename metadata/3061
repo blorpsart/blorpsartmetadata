@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #3061",
+    "description": "Blorps NFT Collection Item #3061",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3061.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Vapor"
+        }
+    ]
+}

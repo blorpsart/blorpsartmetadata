@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4380",
+    "description": "Blorps NFT Collection Item #4380",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4380.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        }
+    ]
+}

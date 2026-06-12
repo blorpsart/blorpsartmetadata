@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #390",
+    "description": "Blorps NFT Collection Item #390",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/390.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Weld Goggles"
+        }
+    ]
+}

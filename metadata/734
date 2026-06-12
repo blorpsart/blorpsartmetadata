@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #734",
+    "description": "Blorps NFT Collection Item #734",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/734.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cowboy"
+        }
+    ]
+}

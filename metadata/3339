@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3339",
+    "description": "Blorps NFT Collection Item #3339",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3339.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "White Wild"
+        }
+    ]
+}

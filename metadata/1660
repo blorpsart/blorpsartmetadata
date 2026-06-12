@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1660",
+    "description": "Blorps NFT Collection Item #1660",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1660.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Frumpy"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2412",
+    "description": "Blorps NFT Collection Item #2412",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2412.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Patch"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Royal Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cop Cap"
+        }
+    ]
+}

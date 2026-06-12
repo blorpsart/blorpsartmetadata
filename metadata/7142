@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7142",
+    "description": "Blorps NFT Collection Item #7142",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7142.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wif"
+        }
+    ]
+}

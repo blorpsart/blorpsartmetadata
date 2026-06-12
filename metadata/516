@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #516",
+    "description": "Blorps NFT Collection Item #516",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/516.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "3D Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Degen"
+        }
+    ]
+}

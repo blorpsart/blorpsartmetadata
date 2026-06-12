@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5692",
+    "description": "Blorps NFT Collection Item #5692",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5692.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Patch"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

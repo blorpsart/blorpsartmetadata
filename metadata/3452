@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #3452",
+    "description": "Blorps NFT Collection Item #3452",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3452.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Purple Lips"
+        }
+    ]
+}

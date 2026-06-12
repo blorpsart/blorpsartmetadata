@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2888",
+    "description": "Blorps NFT Collection Item #2888",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2888.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Hawk"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1309",
+    "description": "Blorps NFT Collection Item #1309",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1309.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple Shadow"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

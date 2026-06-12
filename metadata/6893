@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #6893",
+    "description": "Blorps NFT Collection Item #6893",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6893.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Clown"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #1509",
+    "description": "Blorps NFT Collection Item #1509",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/1509.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wif"
+        }
+    ]
+}

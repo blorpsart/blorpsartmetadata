@@ -1,0 +1,15 @@
+{
+    "name": "Blorps #3932",
+    "description": "Blorps NFT Collection Item #3932",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/3932.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bucktooth"
+        }
+    ]
+}

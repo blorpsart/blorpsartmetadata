@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5653",
+    "description": "Blorps NFT Collection Item #5653",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5653.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Red Nose"
+        }
+    ]
+}

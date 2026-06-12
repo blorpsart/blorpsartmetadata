@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2371",
+    "description": "Blorps NFT Collection Item #2371",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2371.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Infinity Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Black Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7671",
+    "description": "Blorps NFT Collection Item #7671",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7671.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2736",
+    "description": "Blorps NFT Collection Item #2736",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2736.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Hawk"
+        }
+    ]
+}

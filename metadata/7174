@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7174",
+    "description": "Blorps NFT Collection Item #7174",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7174.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "White Wild"
+        }
+    ]
+}

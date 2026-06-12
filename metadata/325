@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #325",
+    "description": "Blorps NFT Collection Item #325",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/325.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Vipers"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Weld Goggles"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #7299",
+    "description": "Blorps NFT Collection Item #7299",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7299.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Shadow"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Durag"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5298",
+    "description": "Blorps NFT Collection Item #5298",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5298.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Infinity Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wif"
+        }
+    ]
+}

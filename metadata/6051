@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6051",
+    "description": "Blorps NFT Collection Item #6051",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6051.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stache"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #318",
+    "description": "Blorps NFT Collection Item #318",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/318.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Purple Cut"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #2759",
+    "description": "Blorps NFT Collection Item #2759",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2759.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Dark Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "White Wild"
+        }
+    ]
+}

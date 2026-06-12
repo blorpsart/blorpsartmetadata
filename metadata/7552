@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7552",
+    "description": "Blorps NFT Collection Item #7552",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7552.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Pipe"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "White Wild"
+        }
+    ]
+}

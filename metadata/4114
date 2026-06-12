@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #4114",
+    "description": "Blorps NFT Collection Item #4114",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4114.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Laser"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Pigtails"
+        }
+    ]
+}

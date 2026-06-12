@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4254",
+    "description": "Blorps NFT Collection Item #4254",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4254.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Freckles"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Halo"
+        }
+    ]
+}

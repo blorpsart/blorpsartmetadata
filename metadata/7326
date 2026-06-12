@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #7326",
+    "description": "Blorps NFT Collection Item #7326",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/7326.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Classic Specs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Freckles"
+        }
+    ]
+}

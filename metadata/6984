@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #6984",
+    "description": "Blorps NFT Collection Item #6984",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/6984.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Mask"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Wild Blond"
+        }
+    ]
+}

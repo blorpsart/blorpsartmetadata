@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #805",
+    "description": "Blorps NFT Collection Item #805",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/805.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nogs"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hot Lips"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Thin Hawk"
+        }
+    ]
+}

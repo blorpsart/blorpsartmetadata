@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #4444",
+    "description": "Blorps NFT Collection Item #4444",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/4444.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bucktooth"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Degen"
+        }
+    ]
+}

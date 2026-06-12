@@ -1,0 +1,23 @@
+{
+    "name": "Blorps #5763",
+    "description": "Blorps NFT Collection Item #5763",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5763.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Blue Clown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Royal Beard"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Cowboy"
+        }
+    ]
+}

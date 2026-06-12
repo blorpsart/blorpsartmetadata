@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #2972",
+    "description": "Blorps NFT Collection Item #2972",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/2972.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Slim Specs"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Frumpy"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Blorps #5581",
+    "description": "Blorps NFT Collection Item #5581",
+    "image": "https://raw.githubusercontent.com/blorpsart/blorpsimage/main/images/5581.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "VR"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Sad Face"
+        }
+    ]
+}
